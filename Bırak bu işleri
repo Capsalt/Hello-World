@@ -4,6 +4,8 @@ public class mesaj {
   
     System.out.println("bırak bu işleri") ;
     
+    System.out.println("devlet su işleri") ;
+    
     }
     
  }
